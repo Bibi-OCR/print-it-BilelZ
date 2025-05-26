@@ -17,10 +17,6 @@ Ce projet a pour but de dynamiser la page d’accueil d’un site statique d’i
 - GitHub Pages pour l’hébergement
 - Visual Studio Code pour le développement
 
-## 🚀 Démo en ligne
-
-👉 Voir le site : [https://Bibi-OCR.github.io/print-it-BilelZ/](https://Bibi-OCR.github.io/print-it-BilelZ/)
-
 ## 💾 Accès au code
 
 👉 Dépôt GitHub : [https://github.com/Bibi-OCR/print-it-BilelZ](https://github.com/Bibi-OCR/print-it-BilelZ)
