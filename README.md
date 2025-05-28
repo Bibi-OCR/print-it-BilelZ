@@ -22,4 +22,4 @@ Ce projet a pour but de dynamiser la page d’accueil d’un site statique d’i
 👉 Dépôt GitHub : [https://github.com/Bibi-OCR/print-it-BilelZ](https://github.com/Bibi-OCR/print-it-BilelZ)
 
 ---
-Projet réalisé par Bilel Zamouri dans le cadre de sa formation OpenClassrooms.
+Projet réalisé par Bilel Zamouri.
