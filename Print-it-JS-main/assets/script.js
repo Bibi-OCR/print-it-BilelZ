@@ -31,7 +31,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Quand on clique sur la flèche de gauche
 leftArrow.addEventListener("click", () => {
-    alert("Flèche gauche cliquée"); // ➕ Affiche une alerte
     currentIndex--; // On recule d’une image
     if (currentIndex < 0) currentIndex = slides.length - 1; // Si on est avant la première, on revient à la dernière
     updateBanner(currentIndex); // On met à jour l’image, le texte et les points
@@ -39,7 +38,6 @@ leftArrow.addEventListener("click", () => {
 
 // Quand on clique sur la flèche de droite
 rightArrow.addEventListener("click", () => {
-    alert("Flèche droite cliquée"); // ➕ Affiche une alerte
     currentIndex++; // On avance d’une image
     if (currentIndex >= slides.length) currentIndex = 0; // Si on dépasse la dernière, on revient à la première
     updateBanner(currentIndex); // On met à jour l’image, le texte et les points
